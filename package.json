@@ -1,0 +1,19 @@
+{
+  "name": "mh-podo",
+  "version": "0.1.0-alpha1",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Remi-Dalpe/MH-Podo.github.io.git"
+  },
+  "author": "Remi Dalpe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Remi-Dalpe/MH-Podo.github.io/issues"
+  },
+  "homepage": "https://github.com/Remi-Dalpe/MH-Podo.github.io#readme",
+  "description": ""
+}
